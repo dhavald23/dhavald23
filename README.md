@@ -2,7 +2,7 @@
 
 # I'm an extremely passionate Software Developer
 ## About Me 😁
-📱 Software Developer / Freelancer
+📱 Software Developer
 
 ✨ UI / UX Enthusiast
 
