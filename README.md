@@ -1,8 +1,8 @@
 # Hi there 👋🏻
 
-# I'm an extremely passionate iOS Developer
+# I'm an extremely passionate Software Developer
 ## About Me 😁
-📱 iOS Developer / Freelancer
+📱 Software Developer / Freelancer
 
 ✨ UI / UX Enthusiast
 
