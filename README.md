@@ -1,8 +1,8 @@
 # Hi there 👋🏻
 
-# I'm an extremely passionate Software Developer
+# I'm an extremely passionate Software Developer in Test
 ## About Me 😁
-📱 Software Developer
+📱 Software Developer in Test
 
 ✨ UI / UX Enthusiast
 
