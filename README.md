@@ -2,7 +2,7 @@
 
 # I'm an extremely passionate Software Developer 
 ## About Me 😁
-📱 Software Developer in Test
+📱 Software Developer
 
 ✨ UI / UX Enthusiast
 
